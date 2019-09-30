@@ -12,9 +12,9 @@ See index.html file in repositiory .
 
 Also add two files in your root of your project 
 
-First :- add manifest.json file get that file just below from index.html file in repositiory
+First :- add manifest.json file get that file from repositiory
 
-Second :- add firebase-messaging-sw.js file get that file just below from manifest.json file in repositiory
+Second :- add firebase-messaging-sw.js file get that file from repositiory
 
 
 Support
