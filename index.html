@@ -98,8 +98,9 @@
  			    ],
  			    apiKey: "<CRONBERRY-APIKEY>",
 	 			audienceId: "<Audience ID>"  
- 			    //If you do not have audience id
- 			    //Ex. Before login case than send any unique value here like current timestamp/epoch(new Date().getTime())time 
+ 			    	//If you do not have audience id
+		     		//Ex. Before login case than send 
+		     		// audienceId : window.navigator.userAgent.replace(/\D+/g, '');
              }),
              success: function (data) {
             	 console.log("success");
