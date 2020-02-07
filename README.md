@@ -1,6 +1,6 @@
 Name
   
-Web-Push Notification Javascript
+cronberry_web_push_notification
 
 Description
 
@@ -10,7 +10,7 @@ Usage
 
 See index.html file in repositiory .
 
-Also add two files in your root of your project 
+Also add two files in your root directory of your project 
 
 First :- add manifest.json file get that file from repositiory
 
