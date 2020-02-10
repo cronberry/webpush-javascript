@@ -17,20 +17,6 @@ First :- add manifest.json file get that file from repositiory
 Second :- add firebase-messaging-sw.js file get that file from repositiory
 
 
-Support
+Support Email : sales@cronberry.com
 
-Enquiry mail at sales@cronberry.com
-
- Authors
-
- Sourav Gupta
-
- email :-  s.gupta@maaruji.com
- 
- Phone No
- 
- 9024466792
-
- License
-
- AlcodesMobilityPvtLtd.
+License: AlcodesMobilityPvtLtd.
